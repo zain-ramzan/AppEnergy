@@ -42,7 +42,7 @@ For quick assessments, simply run `AppEnergy` followed by the application name.
     AppEnergy 'Google Chrome'
     # Output: moderate-cpu
     ```
-
+<!---
 ### Python API Usage
 
 For programmatic integration into your Python projects, use the `calculate_energy_consumption` function:
@@ -56,7 +56,7 @@ energy_level = calculate_energy_consumption("Chrome")
 # Print the result
 print(energy_level)
 ```
-
+--->
 ## How It Works
 
 AppEnergy's analysis is rooted in its ability to **fetch diverse application data from multiple sources**, including Snapcraft, Flathub, Apple Store, GOG, Itch.io, and MyAbandonware. It then applies **intelligent matching algorithms** to discern energy usage patterns. The system's **category matching** utilizes fuzzy matching with confidence scoring to accurately classify applications. Based on its analysis, AppEnergy performs **energy level classification**, categorizing applications into **low-cpu, moderate-cpu, or high-cpu**, providing a clear indication of their expected CPU intensity and, by extension, their energy consumption. The project is **developed entirely in Python**.
