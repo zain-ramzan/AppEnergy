@@ -13,7 +13,7 @@ AppEnergy offers a robust set of features to facilitate energy consumption asses
 *   **Category Matching**: AppEnergy employs **fuzzy matching algorithms with confidence scoring** to accurately categorize applications.
 *   **Energy Level Classification**: Applications are systematically categorized into one of three distinct energy profiles: **low-cpu, moderate-cpu, or high-cpu**.
 *   **Command Line Interface (CLI)**: A **simple and intuitive command-line interface** is provided for quick energy assessments directly from your terminal.
-*   **Python API**: For developers and integrators, AppEnergy offers a **programmatic Python API**, allowing seamless integration into other projects and workflows.
+<!--- *   **Python API**: For developers and integrators, AppEnergy offers a **programmatic Python API**, allowing seamless integration into other projects and workflows. --->
 
 ## Installation
 
