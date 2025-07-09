@@ -39,7 +39,7 @@ For quick assessments, simply run `AppEnergy` followed by the application name.
 *   **Multi-word applications**:
     (Remember to enclose multi-word names in quotes)
     ```bash
-    AppEnergy 'Google Chrome'
+    AppEnergy "Google Chrome"
     # Output: moderate-cpu
     ```
 <!---
